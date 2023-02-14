@@ -1,7 +1,14 @@
 {
   "name": "react-ts-starter",
-  "private": true,
+  "description": "React typescript starter for easy setup project",
   "version": "0.0.0",
+  "private": true,
+  "author": {
+    "name": "Rolando Pranata <@rolandowebdev>"
+  },
+  "engines": {
+    "node": ">=16.x"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
